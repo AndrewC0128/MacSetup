@@ -160,7 +160,7 @@ defaults write NSGlobalDomain NSAutomaticQuoteSubstitutionEnabled -bool false
 ###############################################################################
 
 # Disable hibernation (speeds up entering sleep mode)
-sudo pmset -a hibernatemode 0
+sudo pmset -a hibernatemode 3
 # Remove the sleep image file to save disk space
   #sudo rm /private/var/vm/sleepimage
 # Create a zero-byte file instead…
