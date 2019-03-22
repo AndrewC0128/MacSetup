@@ -6,6 +6,9 @@
 #
 # Script for setting up a new Mac
 #
+# Settings to be set manually:
+# "New Terminal at Folder" Keyboard > Shortcuts > Services
+#
 # Apps that don't have a cask and still need to be installed are:
 #
 # - Setapp
