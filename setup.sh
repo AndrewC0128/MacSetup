@@ -7,7 +7,7 @@
 # Script for setting up a new Mac
 #
 # Settings to be set manually:
-# "New Terminal at Folder" 
+# "New Terminal at Folder"
 #   - Location: Keyboard > Shortcuts > Services
 #   - Shortcut: Command+Shift+~
 #
@@ -24,6 +24,11 @@
 # https://gist.github.com/somebox/6b00f47451956c1af6b4
 
 echo "Starting setup..."
+
+# Move custom .bash_profile
+echo "Implementing custom .bash_profile"
+cp ./bash_profile ~/
+
 # Check if Homebrew is installed and install if not
 if [[ ! `type brew` ]]
 then
