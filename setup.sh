@@ -7,11 +7,13 @@
 # Script for setting up a new Mac
 #
 # Settings to be set manually:
-# "New Terminal at Folder" Keyboard > Shortcuts > Services
+# "New Terminal at Folder" 
+#   - Location: Keyboard > Shortcuts > Services
+#   - Shortcut: Command+Shift+~
 #
 # Apps that don't have a cask and still need to be installed are:
 #
-# - Setapp
+#   - Setapp
 #
 # Get all current settings using:
 # defaults export NSGlobalDomain ~/Desktop/t.plist
