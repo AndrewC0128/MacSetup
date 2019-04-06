@@ -1,6 +1,6 @@
 # Andrew Case
 # Created: 3/8/2019
-# Updated: 3/12/2019
+# Updated: 4/6/2019
 
 #!/usr/bin/bash
 #
@@ -12,7 +12,6 @@
 #   - Shortcut: Command+Shift+~
 #
 # Apps that don't have a cask and still need to be installed are:
-#
 #   - Setapp
 #
 # Get all current settings using:
@@ -26,8 +25,9 @@
 echo "Starting setup..."
 
 # Move custom .bash_profile
-echo "Implementing custom .bash_profile"
-cp ./bash_profile ~/
+echo "Implementing custom .bash_profile & .vimrc"
+cp ./.bash_profile ~/
+cp ./.vimrc ~/
 
 # Check if Homebrew is installed and install if not
 if [[ ! `type brew` ]]
