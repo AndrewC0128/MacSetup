@@ -1,6 +1,6 @@
 # Andrew Case
 # Created: 3/8/2019
-# Updated: 4/6/2019
+# Updated: 5/23/2019
 
 #!/usr/bin/bash
 #
@@ -88,6 +88,12 @@ CASKS=(
 
 echo "Installing cask apps..."
 brew cask install ${CASKS[@]}
+
+echo "Cleaning up (again)..."
+brew cleanup
+
+echo "Installing node..."
+brew install node
 
 echo "Cleaning up (again)..."
 brew cleanup
