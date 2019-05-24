@@ -84,6 +84,7 @@ CASKS=(
     intellij-idea
     steam
     handbrake
+    xquartz
 )
 
 echo "Installing cask apps..."
