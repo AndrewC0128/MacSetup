@@ -85,6 +85,7 @@ CASKS=(
     steam
     handbrake
     xquartz
+    flux
 )
 
 echo "Installing cask apps..."
@@ -93,8 +94,14 @@ brew cask install ${CASKS[@]}
 echo "Cleaning up (again)..."
 brew cleanup
 
+echo "Setting permissions for node installation..."
+sudo chown -R $(whoami) $(brew --prefix)/*
+
 echo "Installing node..."
 brew install node
+
+echo "Installing watchman..."
+brew install watchman
 
 echo "Cleaning up (again)..."
 brew cleanup
