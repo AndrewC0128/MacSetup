@@ -1,0 +1,145 @@
+Adobe Acrobat Reader DC.app
+Aperture.app
+App Store.app
+AppCleaner.app
+AppPolice.app
+Atom.app
+Automator Workflows
+Automator.app
+BattleNations.app
+BetterSnapTool.app
+Bible Study.app
+Books.app
+CLion.app
+CPULoad.app
+Caffeine.app
+Calculator.app
+Calendar.app
+Chess.app
+Composure.app
+Contacts.app
+Dashboard.app
+Dictionary.app
+DiscEject.app
+Discord.app
+Disk Diag.app
+Disk Doctor.app
+DiskWarrior.app
+Display Menu.app
+Duplicate Cleaner For iPhoto.app
+EtreCheck.app
+FaceTime.app
+File Properties Editor.app
+FileZilla.app
+Find the Juggler.app
+Firefox.app
+Flixster Video.app
+Flux.app
+Font Book.app
+Free Ringtone Maker.app
+GIFfun.app
+GeekTool.app
+GinRummy.app
+GitHub Desktop.app
+Google Chrome.app
+HP
+HP Easy Scan.app
+HandBrake.app
+Hearts 2 Lite.app
+Hewlett-Packard
+HiddenMe.app
+Home.app
+Hotspot Shield.app
+IconBox.app
+Image Capture.app
+Impactor.app
+Installers
+IntelliJ IDEA.app
+Juggler.app
+JumpingLine.app
+Launchpad.app
+LockDown Browser.app
+Mail.app
+Maps.app
+Memory Clean 2.app
+Memory Purge.app
+Messages.app
+Microsoft Excel.app
+Microsoft OneNote.app
+Microsoft Outlook.app
+Microsoft PowerPoint.app
+Microsoft Silverlight
+Microsoft Word.app
+Minecraft.app
+Miro Video Converter.app
+Mission Control.app
+Movie Tools
+Movist (Old).app
+NetBeans
+New iExplorer.app
+News.app
+Notes.app
+Nv2-Mac.app
+OmniDiskSweeper.app
+PawPrints.app
+Perian.prefPane
+PhoneClean.app
+Photo Booth.app
+Photos.app
+Pixelmator.app
+Pop Cap Games
+Preview.app
+Python 3.7
+QuickTime Player.app
+Quitter.app
+Reminders.app
+Remote Desktop Connection.app
+Remote Desktop.app
+Safari.app
+Screenhero.app
+Setapp
+Setapp.app
+Siri.app
+Skype.app
+Slender.app
+Snapheal.app
+Sourcetree.app
+Spotify.app
+Steam.app
+Stickies.app
+Stocks.app
+System Preferences.app
+TI Connect
+TI Connect CE.app
+Taco HTML Edit.app
+TeX
+TeamSpeak 3 Client.app
+TextEdit.app
+The Unarchiver.app
+Time Machine.app
+Transmission.app
+Twitch.app
+UnRarX.app
+Utilities
+VLC.app
+VirtualBox.app
+Visual Paradigm.app
+VisualVM.app
+VoiceMemos.app
+Wunderlist.app
+Xcode.app
+duet.app
+dupeGuru PE.app
+iAlertU.app
+iExplorer.app
+iPhoto.app
+iProcrastinate.app
+iTerm.app
+iTunes.app
+iWork
+invisibliX.app
+myHomework.app
+smcFanControl.app
+texstudio.app
+unetbootin.app
+zoom.us.app
